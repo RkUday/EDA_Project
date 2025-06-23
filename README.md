@@ -54,7 +54,5 @@ Interactive and static visualizations were created to understand:
 3. Run the notebook sequentially to view analysis and results
 
 🤝 Acknowledgements
-
-- Cognifyz Technologies for project guidance
 - London Datastore for providing public datasets
 
